@@ -23,13 +23,6 @@ export class Select {
   }
 }
 
-export const Parallax = `<div class="parallax">
-<div class="parallax-top-left" tabindex="1"></div>
-<div class="parallax-top-right" tabindex="2"></div>
-<div class="parallax-bottom-left" tabindex="3"></div>
-<div class="parallax-bottom-right" tabindex="4"></div>
-<div class="parallax-content">
-  <div class="parallax-front">
     <h5>{{caption}}</h5>
   </div>
   <div class="parallax-back">
